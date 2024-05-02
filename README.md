@@ -1,3 +1,3 @@
-# TodoApp
-- Tugas_WP2_TodoApp
+# UTS WEB 2
+- Aplikasi Perpustakaan Sederhana
 - Nama : Raihan Ilham Yusuf
